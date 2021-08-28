@@ -15,8 +15,7 @@ A highly-performant command runtime server written in Go for Flame 🔥
   </a>
 </p>
 
-> **Flame Command Runtime(FCR)** is powerful, highly customizable command runtime built for Flame bot. It receives commands with context from NATS queue, so you need to install it. Then, it responds
-with actions, that client should run.
+> **Flame Command Runtime(FCR)** is powerful, highly customizable command runtime built for Flame bot. It is built to make creation of custom commands smoother and easier.
 
 Feel free to contribute or give this repo a star ⭐, so that our community grows much faster!
 
