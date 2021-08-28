@@ -6,10 +6,6 @@ A highly-performant command runtime server written in Go for Flame 🔥
     <img src="https://img.shields.io/discord/785088147721027585.svg?logo=discord&colorB=7289DA" alt="Discord">
   </a>
 
-  <a href="https://github.com/discordjs/discord.js">
-    <img src="https://img.shields.io/badge/discord.js-master-blue.svg?logo=npm" alt="discord.js">
-  </a>
-  
   <a href="https://boosty.to/flame_official">
     <img src="https://img.shields.io/badge/boosty-donate-orange.svg" alt="boosty">
   </a>
