@@ -31,4 +31,4 @@ All contributions and Pull-requests **are welcome!** That means, that every sing
 But before you start, please notice, that you should use [Conventional Commits](https://conventionalcommits.org), and do not open duplicate Pull-requests.
 
 ## License
-Please also remember, that this project is licensed under the [Apache License 2.0](https://github.com/Flame-Developers/command-runtime/blob/main/LICENSE.md). You **may** use code from here for your own purposes, but you **must** credit the original author of the code and provide link to this repository.
+Please also remember, that this project is licensed under the [Apache License 2.0](https://github.com/Flame-Developers/command-runtime/blob/main/LICENSE). You **may** use code from here for your own purposes, but you **must** credit the original author of the code and provide link to this repository.
